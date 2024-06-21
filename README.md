@@ -1,4 +1,4 @@
-## This is a TO-DO Application 
+## This is a TO-DO Application📱
 <ul>
   <li>Completed as my MAD final assessment</li>
   <li>Used Kotlin as the Language and,</li>
