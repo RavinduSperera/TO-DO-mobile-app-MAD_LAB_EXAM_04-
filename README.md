@@ -1,2 +1,6 @@
 ## This is a TO-DO Application 
-<p>Completed as my MAD lab exam assignment</p>
+<ul>
+  <li>Completed as my MAD final assessment</li>
+  <li>Used Kotlin as the Language and,</li>
+  <li>SQlite as the Database</li>
+</ul>
